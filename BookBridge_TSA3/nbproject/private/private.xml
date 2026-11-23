@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/BookBridge_TSA3/src/bookbridge/model/MembershipType.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/BookBridge_TSA3/src/bookbridge/model/BookStatus.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/BookBridge_TSA3/src/bookbridge/model/LoanStatus.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/BookBridge_TSA3/src/bookbridge/model/Member.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/BookBridge_TSA3/src/bookbridge/model/Student.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/BookBridge_TSA3/src/bookbridge/model/Faculty.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/BookBridge_TSA3/src/bookbridge/model/Guest.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/BookBridge_TSA3/src/bookbridge/model/LibraryBook.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/BookBridge_TSA3/src/bookbridge/model/CirculationSummary.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/BookBridge_TSA3/src/bookbridge/exception/DuplicateEntityException.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/BookBridge_TSA3/src/bookbridge/exception/ItemUnavailableException.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/BookBridge_TSA3/src/bookbridge/exception/LoanLimitExceededException.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/BookBridge_TSA3/src/bookbridge/service/LibraryService.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/BookBridge_TSA3/src/bookbridge/service/Result.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/BookBridge_TSA3/src/bookbridge/app/BookBridgeApp.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/BookBridge_TSA3/src/bookbridge/model/LoanRecord.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/BookBridge_TSA3/src/bookbridge/model/Reservation.java</file>
+            <file>file:/C:/Users/ASUS/OneDrive/Documents/NetBeansProjects/BookBridge_TSA3/src/bookbridge/model/Notifiable.java</file>
+        </group>
+    </open-files>
+</project-private>
