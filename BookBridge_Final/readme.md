@@ -56,11 +56,3 @@ If the application does not open, make sure that BookBridgeFrame is selected as 
 I tested the system using 15 test cases to check if its different features work properly. These include adding books, registering members, borrowing and returning books, managing reservations, and handling invalid inputs.
 
 I also tested the system by closing and reopening it to check if the records were still saved in the database. The test results and screenshots are included in the Final Test Report.
-
-### 8. Build Evidence
-
-The screenshot below shows that the BookBridge_Final project was successfully built in NetBeans without any compilation errors.
-
-**Figure 1. BookBridge_Final Clean and Build Result**
-
-*Insert Clean and Build screenshot here.*
